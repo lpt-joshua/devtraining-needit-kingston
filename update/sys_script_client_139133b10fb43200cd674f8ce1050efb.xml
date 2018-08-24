@@ -13,7 +13,7 @@
         <script><![CDATA[function onLoad() {
    //Type appropriate comment here, and begin script below
    alert("Thank you for loading the NeedIt form.   When you close this alert you will be ˝able to interact with the form.");
-console.log("Form loaded!");
+console.log("Form loaded! Locally change the console.log message");
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
